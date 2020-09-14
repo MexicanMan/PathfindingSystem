@@ -5,7 +5,7 @@ using UnityEngine.Events;
 
 public class Hero : MonoBehaviour
 {
-    private const float EpsMovement = 0.1f;
+    private const float EpsMovement = 0.5f;
 
     private readonly UnityEvent _onTargeted = new UnityEvent();
     private readonly UnityEvent<bool> _onReachedGoal = new UnityEvent<bool>();
