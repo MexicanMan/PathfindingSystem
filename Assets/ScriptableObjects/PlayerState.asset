@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cbb230e5164d3a44ab0335b395a87e6, type: 3}
+  m_Name: PlayerState
+  m_EditorClassIdentifier: 
+  Money: 0
+  GreenHero: {fileID: 11400000, guid: 9744884411682904a92a817fa543c5c8, type: 2}
+  YellowHero: {fileID: 11400000, guid: 18997cb3535986f4cb80d08b47e3066f, type: 2}
+  BlueHero: {fileID: 11400000, guid: 9d7526952de3f71449d1c78c7a30d405, type: 2}
